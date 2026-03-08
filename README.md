@@ -61,41 +61,68 @@
 
 
 ## 🛠️ Skills
+
 <p align="center">
 <table>
+
 <tr>
 <td width="50%" align="center">
+
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
-<br/><br/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
 </td>
 
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=React,Nodejs,Ignition,Highbyte" />
+
+<h3>📚 Frameworks & Libraries</h3>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+<img height="50" src="https://cdn.simpleicons.org/mqtt/660066"/>
+<img height="50" src="https://cdn.simpleicons.org/inductiveautomation/ff6600"/>
+
 </td>
-
-
-
 </tr>
+
+
 <tr>
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=Mongodb,Mysql,PostgreSql" />
-<br/><br/>
+
+<h3>🗄️ Databases</h3>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<img height="50" src="https://cdn.simpleicons.org/influxdb/22ADF6"/>
 
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,HiveMQ" />
+
+<h3>🧰 Tools & Platforms</h3>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+
+<img height="50" src="https://cdn.simpleicons.org/emqx/ff6600"/>
+<img height="50" src="https://cdn.simpleicons.org/highbyte/000000"/>
+
 </td>
 </tr>
+
 </table>
 </p>
-
 
 
 
